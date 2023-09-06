@@ -1,5 +1,0 @@
-{{#user}}
-Name: Shyamdev Krishnan J
-Skills: HTML, CSS, JS, Next.js, Python, React
-Email: sdkrishnan16@gmail.com
-{{/user}}
